@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EmergencyContact</string>
+    <string name="heading">Emergency Contacts</string>
+    <string name="add_description">Button to add new contacts</string>
+    <string name="new_contact_heading">New Contact</string>
+    <string name="name_label">Name:</string>
+    <string name="name_contact_desc">Field for entering a contact&quot;s name</string>
+    <string name="phone_label">Phone:</string>
+    <string name="phone_content_desc">Field for entering a contact&quot;s phone number</string>
+    <string name="save_new_contact_desc">A button for saving a new contact</string>
+
+    <string name="edit_save_desc">Button to edit or save an existing contact</string>
+    <string name="view_contact_name_desc">Field to view/edit the name of an existing contact</string>
+    <string name="view_phone_content_desc">Field to view/edit the name of an existing contact</string>
+    <string name="dial_number_desc">A button to dial the number of a contact</string>
+
+    <string name="delete_row_desc">A button to delete an individual contact</string>
+</resources>
